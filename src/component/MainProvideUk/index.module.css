@@ -1,0 +1,44 @@
+.provide {
+  width: 100%;
+  background-color: #000000;
+  height: 340px;
+  display: flex;
+  position: relative;
+}
+.provide_inner {
+  margin-top: 30px;
+  width: 1584.4px;
+  height: 372.64px;
+  background-color: #ff385c;
+  padding: 0px 80px;
+  color: #ffffff;
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.provide_text {
+  position: absolute;
+  font-weight: 600;
+  line-height: 43px;
+  height: 54px;
+  font-size: 38px;
+  width: 1584px;
+  text-align: center;
+  /* text-align: center; */
+  top: 43%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.detail {
+  position: absolute;
+  width: 150.99px;
+  height: 36px;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #ff385c;
+  border: 1px solid #ffffff;
+  cursor: pointer;
+  color: #ffffff;
+}

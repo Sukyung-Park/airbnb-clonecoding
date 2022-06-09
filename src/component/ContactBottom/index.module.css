@@ -1,0 +1,17 @@
+.bottom {
+  text-align: center;
+  margin-top: 150px;
+}
+.bottom__box {
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 20px;
+  padding-bottom: 100px;
+}
+.bottom__text1 {
+  margin-right: 15px;
+}
+.bottom__text2 {
+  margin-left: 15px;
+}

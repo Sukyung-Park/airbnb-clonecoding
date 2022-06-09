@@ -1,0 +1,27 @@
+.public__box {
+  top: 130px;
+  position: relative;
+  padding: 0 10%;
+  margin: 10px 1%;
+  display: flex;
+}
+.public__card {
+  justify-content: space-between;
+  padding-left: 25px;
+  white-space: pre-wrap;
+  padding-right: 55px;
+  border-bottom: 1px solid gainsboro;
+}
+.public__text {
+  font-weight: 600;
+  margin-top: 10px;
+}
+.public__text1 {
+  color: #222222;
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: underline;
+}
+.public__text2 {
+  margin-bottom: 50px;
+}

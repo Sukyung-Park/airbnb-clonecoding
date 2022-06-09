@@ -1,0 +1,41 @@
+.oneto {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+.oneto__left {
+  position: absolute;
+  width: 50%;
+  height: 800px;
+  background-color: #5f002a;
+  font-weight: 600;
+  color: #ffffff;
+}
+.oneto__text1 {
+  font-size: 27px;
+  position: absolute;
+  width: 700px;
+  top: 600px;
+  left: 500px;
+  /* top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+}
+.oneto__text2 {
+  font-size: 36px;
+  position: absolute;
+  width: 700px;
+  top: 650px;
+  left: 500px;
+  /* top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+}
+video {
+  position: absolute;
+  height: 800px;
+  width: 50%;
+  object-fit: cover;
+  float: left;
+  left: 50%;
+}

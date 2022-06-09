@@ -1,0 +1,135 @@
+.card__box {
+  margin: auto;
+  max-width: 1700px;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+  /* display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+  margin: auto; */
+}
+.card__tool {
+  /* 넓이값 고정해주기 */
+  margin: 0 auto;
+  padding: 10px 15px;
+}
+.card__card {
+  box-sizing: border-box;
+}
+.card__img {
+  width: 317.8px;
+  height: 317.8px;
+  flex-direction: row;
+  border-radius: 15px;
+}
+.card__place {
+  font-weight: 600;
+}
+.card__price {
+  text-align: left;
+}
+.card__distance {
+}
+.card__date {
+}
+.card__box1 {
+  margin-top: 5px;
+  display: flex;
+  margin-bottom: 5px;
+  justify-content: space-between;
+}
+.card__box2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* .card {
+  width: 1500px;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: flex-start;
+}
+.card_box {
+  float: left;
+  width: 279px;
+  height: 331px;
+  flex-direction: column;
+  align-items: flex-start;
+  z-index: 1;
+  padding-bottom: 40px;
+}
+.card_img {
+  width: 308px;
+  height: 279px;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.card__inner1 {
+  position: relative;
+}
+.card__inner2 {
+  justify-content: space-between;
+  padding-bottom: 30px;
+  display: flex;
+  margin-bottom: -20px;
+}
+.card_place {
+  font-size: 16px;
+  font-weight: 600;
+  float: left;
+}
+.card_price {
+  float: right;
+}
+.card__inner3 {
+  justify-content: space-between;
+  display: flex;
+  padding-left: 30px;
+}
+.CardBox {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  left: 38%;
+  top: 12%;
+  transform: translate(-50%, -50%);
+}
+.card_1 {
+  padding-right: 30px;
+}
+.card_2 {
+  padding-right: 30px;
+}
+.card_3 {
+  padding-right: 30px;
+}
+.card_4 {
+  padding-right: 30px;
+}
+.card_5 {
+  padding-right: 30px;
+}
+.card_object1 {
+  padding-bottom: 40px;
+}
+.card__button {
+  width: 30px;
+  height: 30px;
+  border: none;
+  background-color: transparent;
+  position: absolute;
+  left: 80%;
+  top: 10%;
+  color: black;
+  cursor: pointer;
+  padding: 10px;
+}
+.card__button:hover {
+  color: #cc2d4a;
+} */

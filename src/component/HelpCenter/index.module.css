@@ -1,0 +1,58 @@
+.helpcenter {
+  padding: 0 10%;
+  margin: 200px 2%;
+  background-color: black;
+  color: #ffffff;
+  height: 520px;
+}
+.help__main {
+  font-size: 32px;
+  white-space: normal;
+}
+.help__box {
+  display: flex;
+}
+.help__text {
+  padding-top: 50px;
+  font-weight: 600;
+}
+.help__img {
+  border-radius: 15px;
+}
+.help__box1 {
+  padding-right: 20px;
+}
+.help__textbox {
+  margin-top: 15px;
+}
+.help__text1 {
+  font-size: 16px;
+  font-weight: 500;
+}
+.help__text2 {
+  font-size: 14px;
+}
+.needbox {
+  margin-left: 80px;
+}
+.needbox__text1 {
+  font-size: 26px;
+  font-weight: 600;
+}
+.needbox__text2 {
+  margin-top: 12px;
+  font-size: 18px;
+  line-height: 0.5em;
+}
+.btn {
+  margin-top: 25px;
+  width: 300px;
+  height: 48px;
+  font-size: 16px;
+  font-weight: 400px;
+}
+.needbox__text3 {
+  margin-top: 30px;
+  font-size: 18px;
+  line-height: 0.5em;
+}

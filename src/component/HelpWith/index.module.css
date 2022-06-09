@@ -1,0 +1,32 @@
+.search_button {
+  width: 45px;
+  height: 45px;
+  border: none;
+  border-radius: 50%;
+  background-color: #fa215b;
+  position: absolute;
+  margin-left: 280px;
+  padding-bottom: 10px;
+}
+
+.search_button:hover {
+  background-color: #dc0e64;
+}
+.helptext {
+  text-align: center;
+  font-size: 48px;
+  color: #222222;
+  font-weight: 600;
+}
+.search__box {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.helpbox {
+  width: 350px;
+  height: 68px;
+  border: 1px solid gainsboro;
+  border-radius: 40px;
+}

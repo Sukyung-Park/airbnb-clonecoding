@@ -1,0 +1,42 @@
+.hostroad {
+  width: 100%;
+  height: 747.04px;
+  position: relative;
+}
+.hostbox {
+  position: absolute;
+  width: 1500px;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline;
+  vertical-align: middle;
+  text-align: left;
+}
+.host__text1 {
+  /* position: absolute; */
+  font-size: 32px;
+  color: #5f002a;
+  line-height: 36px;
+  font-weight: 600;
+  text-align: left;
+  /* top: 30%;
+  left: 97%;
+  transform: translate(-50%, -50%); */
+}
+.host__text2 {
+  width: 1500px;
+  font-size: 64px;
+  color: #5f002a;
+  line-height: 72px;
+  font-weight: 600;
+  text-align: left;
+  position: absolute;
+  margin-top: 4%;
+  /* top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+}
+.btn {
+  margin-top: 25%;
+}

@@ -1,0 +1,49 @@
+.hoststart {
+  width: 100%;
+  background-color: black;
+  margin-top: 200px;
+  height: 400px;
+  position: relative;
+}
+.text__box {
+  position: absolute;
+  top: 40%;
+  left: 18%;
+  margin-top: -100px;
+  margin-left: -100px;
+  width: 1000px;
+  height: 200px;
+}
+.host__text1 {
+  color: #fff;
+  font-size: 64px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+.host__text2 {
+  color: #fff;
+  font-size: 18px;
+}
+.btn__box {
+  position: absolute;
+  top: 90%;
+  left: 18%;
+  margin-top: -100px;
+  margin-left: -100px;
+  display: flex;
+}
+.host__btn1 {
+  border-radius: 15px;
+  margin-left: 300px;
+  font-size: 25px;
+  padding: 10px;
+  background-color: black;
+  color: #ffffff;
+  border: solid 0.5px white;
+}
+.host__btn2 {
+  border-radius: 15px;
+  position: absolute;
+  font-size: 25px;
+  padding: 10px;
+}

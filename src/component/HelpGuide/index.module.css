@@ -1,0 +1,30 @@
+.guide__img {
+  width: 284px;
+  height: 280px;
+  border-radius: 15px;
+}
+.guide__box {
+  top: 45px;
+  position: relative;
+  padding: 0 10%;
+  margin: 10px 2%;
+  display: flex;
+  width: 80%;
+  align-items: center;
+}
+.guide__start {
+  top: 30px;
+  position: relative;
+  padding: 0 10%;
+  margin: 10px 4%;
+  font-size: 26px;
+  font-weight: 600;
+}
+.guide__card {
+  padding-left: 25px;
+  margin: 0 auto;
+}
+.guide__text {
+  font-weight: 600;
+  margin-top: 10px;
+}

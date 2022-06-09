@@ -1,0 +1,21 @@
+.ContactHead {
+  height: 80px;
+  width: 100%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  position: relative;
+  justify-content: center;
+  color: #222222;
+}
+.Contact__navi {
+  position: absolute;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 80px;
+}
+.Contact__host__text {
+  font-weight: 600;
+}

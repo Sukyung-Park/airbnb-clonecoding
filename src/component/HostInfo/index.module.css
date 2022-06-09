@@ -1,0 +1,31 @@
+.HostInfo {
+  position: relative;
+  top: 1250px;
+  left: 500px;
+  font-size: 48px;
+  font-weight: 600;
+}
+.host__img1 {
+  position: absolute;
+  top: 2850px;
+  width: 2480px;
+  height: 1500px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.host__img2 {
+  position: absolute;
+  top: 4310px;
+  width: 2480px;
+  height: 1400px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.host__img3 {
+  position: absolute;
+  top: 5720px;
+  width: 2480px;
+  height: 1400px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

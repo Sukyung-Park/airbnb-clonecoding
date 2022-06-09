@@ -1,0 +1,30 @@
+.helplogin {
+  position: relative;
+  padding: 0 10%;
+  margin: 10px 3%;
+}
+.helptextbox {
+  border: solid 1px gainsboro;
+  display: flex;
+  margin: 10px;
+  height: 90px;
+  border-radius: 15px;
+}
+.btn {
+  margin: auto;
+  margin-right: 15px;
+  height: 50px;
+  width: 300px;
+  background-color: #e31c5f;
+  color: #ffffff;
+  font-weight: 600;
+  border: none;
+  border-radius: 15px;
+}
+.helptextbox > ul {
+  text-align: start;
+  margin-top: 15px;
+}
+.helptextbox > ul > li > h4 {
+  font-weight: 600;
+}

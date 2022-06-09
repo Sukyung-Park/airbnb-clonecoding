@@ -1,0 +1,26 @@
+.host__main {
+  width: 100%;
+}
+.host__box {
+  position: relative;
+  display: flex;
+  top: 900px;
+  margin: 0 auto;
+  width: 1700px;
+  text-align: left;
+  white-space: pre-wrap;
+  justify-content: space-between;
+}
+
+.host__1 {
+  width: 500px;
+  margin-bottom: 20px;
+  font-size: 26px;
+  font-weight: 700;
+}
+.host__2 {
+  width: 500px;
+  margin: 0 auto;
+  font-size: 18px;
+  line-height: 30px;
+}
